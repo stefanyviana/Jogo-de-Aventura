@@ -13,3 +13,9 @@ button{
     color: rgb(76, 60, 40);
     font-family: "Bai Jamjuree", sans-serif;
 }
+.passo{
+    display:nome;
+}
+.passo.ativo{ 
+    display:block;
+}
